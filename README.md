@@ -39,5 +39,5 @@ Este proyecto representa una empresa tecnológica ficticia con todas las seccion
 
 🚀 Estado del Proyecto
 
-✅ Proyecto finalizado
+✅ Proyecto finalizado: https://next-tech-final.vercel.app/
 📚 Uso académico y demostrativo
